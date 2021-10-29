@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div className="bg-gray-50 h-screen overflow-y-scroll scrollbar-hide">
       <Head>
-        <title>Insta Clone</title>
+        <title>Instagram Clone</title>
         <link rel="icon" href="/insta.png" />
       </Head>
 
