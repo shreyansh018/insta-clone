@@ -1,8 +1,7 @@
-# Next.js + Tailwind CSS Example
+## Next.js, Google Authentications using Next Auth, Firrebase V9, Recoil, Tailwind CSS, Mobile Responsive
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+# We can add posts also and can give a like to it comment on it, You can sign in using Google Authentication, you can sign out.
 
-It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-mode) for Tailwind CSS.
 
 ## Preview
 
