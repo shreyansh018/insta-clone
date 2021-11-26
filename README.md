@@ -1,6 +1,6 @@
-## Next.js, Google Authentications using Next Auth, Firrebase V9, Recoil, Tailwind CSS, Mobile Responsive
+# Next.js, Google Authentications using Next Auth, Firrebase V9, Recoil, Tailwind CSS, Mobile Responsive
 
-# We can add posts also and can give a like to it comment on it, You can sign in using Google Authentication, you can sign out.
+## We can add posts also and can give a like to it comment on it, You can sign in using Google Authentication, you can sign out.
 
 
 ## Preview
